@@ -1,0 +1,3 @@
+[submodule "studentManagementUI"]
+    path = studentManagementUI
+    url = git@github.com:Saiavinash-69/studentManagementUI.git
